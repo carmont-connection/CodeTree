@@ -1,0 +1,12 @@
+modules:
+  macro:
+    - key: code-tree-hello-world
+      function: main
+      title: code-tree
+      description: Inserts Hello world!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/7bf8aaea-9ae4-423b-9b72-af61ab55e39e'
+  name: code-tree

@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "connect_API-executor",
+    "name": "connect_API",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "h399hzfev1"
+  }
+}
